@@ -131,3 +131,10 @@ form button:hover {
 .edit-btn {
     background-color: var(--color-primary);
 }
+.notes{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 7px;
+    column-fill: balance;
+    column-gap: 2px;
+}
