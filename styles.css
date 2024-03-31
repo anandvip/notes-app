@@ -102,6 +102,7 @@ form button:hover {
     background-color: #fff;
     border-radius: 3px;
     margin: 1rem 0;
+    width: fit-content;
 
 }
 
