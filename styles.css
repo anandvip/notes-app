@@ -134,7 +134,5 @@ form button:hover {
 .notes{
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
-    gap: 7px;
-    column-fill: balance;
     column-gap: 2px;
 }
